@@ -34,4 +34,4 @@ async function main() {
   // console.log(response.choices[0].message.content);
 }
 
-main();
+//main();
